@@ -1,0 +1,5 @@
+glibc
+http://ftp.gnu.org/pub/gnu/glibc/
+
+arm gcc none eabi 
+https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
